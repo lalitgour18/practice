@@ -4,12 +4,13 @@ import Home from './Home';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import About from './About'
 
+
 function App() {
   return (
     <div className="navbar">
     
     
-      <About />
+      <Home />
     </div>
   
   );
